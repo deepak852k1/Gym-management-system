@@ -1,2 +1,2 @@
 # Gym-management-system
-DBMS Moni project
+DBMS Mini project
